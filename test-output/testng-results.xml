@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-31T11:15:43 IST" name="Master Suite" finished-at="2024-08-31T11:15:50 IST" duration-ms="7105">
+  <suite started-at="2024-09-02T17:11:14 IST" name="Master Suite" finished-at="2024-09-02T17:11:25 IST" duration-ms="11790">
     <groups>
-      <group name="Master">
-        <method signature="TC002_LoginTest.verify_login()[pri:0, instance:testCases.TC002_LoginTest@20140db9]" name="verify_login" class="testCases.TC002_LoginTest"/>
-      </group> <!-- Master -->
-      <group name="Sanity">
-        <method signature="TC002_LoginTest.verify_login()[pri:0, instance:testCases.TC002_LoginTest@20140db9]" name="verify_login" class="testCases.TC002_LoginTest"/>
-      </group> <!-- Sanity -->
     </groups>
-    <test started-at="2024-08-31T11:15:43 IST" name="Test" finished-at="2024-08-31T11:15:50 IST" duration-ms="7105">
-      <class name="testCases.TC002_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@20140db9]" started-at="2024-08-31T11:15:43 IST" name="setup" finished-at="2024-08-31T11:15:47 IST" duration-ms="4201" status="PASS">
+    <test started-at="2024-09-02T17:11:14 IST" name="Test" finished-at="2024-09-02T17:11:25 IST" duration-ms="11790">
+      <class name="testCases.TC004_SearchProductTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_SearchProductTest@368247b9]" started-at="2024-09-02T17:11:14 IST" name="setup" finished-at="2024-09-02T17:11:18 IST" duration-ms="3788" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,15 +23,41 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_login()[pri:0, instance:testCases.TC002_LoginTest@20140db9]" started-at="2024-08-31T11:15:47 IST" name="verify_login" finished-at="2024-08-31T11:15:49 IST" duration-ms="1382" status="PASS">
+        <test-method signature="verify_productSearch()[pri:0, instance:testCases.TC004_SearchProductTest@368247b9]" started-at="2024-09-02T17:11:18 IST" name="verify_productSearch" finished-at="2024-09-02T17:11:18 IST" duration-ms="780" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTest@20140db9]" started-at="2024-08-31T11:15:49 IST" name="tearDown" finished-at="2024-08-31T11:15:50 IST" duration-ms="1272" status="PASS">
+        </test-method> <!-- verify_productSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC004_SearchProductTest@368247b9]" started-at="2024-09-02T17:11:18 IST" name="tearDown" finished-at="2024-09-02T17:11:20 IST" duration-ms="1338" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC002_LoginTest -->
+      </class> <!-- testCases.TC004_SearchProductTest -->
+      <class name="testCases.TC005_AddToCartTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_AddToCartTest@d86a6f]" started-at="2024-09-02T17:11:20 IST" name="setup" finished-at="2024-09-02T17:11:22 IST" duration-ms="2720" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_AddTOCart()[pri:0, instance:testCases.TC005_AddToCartTest@d86a6f]" started-at="2024-09-02T17:11:22 IST" name="verify_AddTOCart" finished-at="2024-09-02T17:11:24 IST" duration-ms="1656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_AddTOCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC005_AddToCartTest@d86a6f]" started-at="2024-09-02T17:11:24 IST" name="tearDown" finished-at="2024-09-02T17:11:25 IST" duration-ms="1246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC005_AddToCartTest -->
     </test> <!-- Test -->
   </suite> <!-- Master Suite -->
 </testng-results>

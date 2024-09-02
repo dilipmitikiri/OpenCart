@@ -271,3 +271,12 @@
 16:46:39.160 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest**** 
 16:53:04.259 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest**** 
 16:53:05.696 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest**** 
+14:25:36.558 [main] INFO  testCases.TC004_SearchProductTest - ***Starting TC004_SearchProductTest***
+14:25:37.294 [main] INFO  testCases.TC004_SearchProductTest - ***Finished TC004_SearchProductTest***
+17:09:38.680 [main] INFO  testCases.TC004_SearchProductTest - ***Starting TC004_SearchProductTest***
+17:09:39.391 [main] INFO  testCases.TC004_SearchProductTest - ***Finished TC004_SearchProductTest***
+17:09:43.486 [main] INFO  testCases.TC005_AddToCartTest - ***starting TC005_AddToCartTest***
+17:11:18.115 [main] INFO  testCases.TC004_SearchProductTest - ***Starting TC004_SearchProductTest***
+17:11:18.881 [main] INFO  testCases.TC004_SearchProductTest - ***Finished TC004_SearchProductTest***
+17:11:22.951 [main] INFO  testCases.TC005_AddToCartTest - ***starting TC005_AddToCartTest***
+17:11:24.606 [main] INFO  testCases.TC005_AddToCartTest - ***Finished TC005_AddToCartTest***
