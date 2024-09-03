@@ -280,3 +280,7 @@
 17:11:18.881 [main] INFO  testCases.TC004_SearchProductTest - ***Finished TC004_SearchProductTest***
 17:11:22.951 [main] INFO  testCases.TC005_AddToCartTest - ***starting TC005_AddToCartTest***
 17:11:24.606 [main] INFO  testCases.TC005_AddToCartTest - ***Finished TC005_AddToCartTest***
+17:32:46.633 [main] INFO  testCases.TC004_SearchProductTest - ***Starting TC004_SearchProductTest***
+17:32:47.373 [main] INFO  testCases.TC004_SearchProductTest - ***Finished TC004_SearchProductTest***
+17:32:51.581 [main] INFO  testCases.TC005_AddToCartTest - ***starting TC005_AddToCartTest***
+17:32:53.571 [main] INFO  testCases.TC005_AddToCartTest - ***Finished TC005_AddToCartTest***
