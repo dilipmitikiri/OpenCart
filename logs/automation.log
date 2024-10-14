@@ -284,3 +284,5 @@
 17:32:47.373 [main] INFO  testCases.TC004_SearchProductTest - ***Finished TC004_SearchProductTest***
 17:32:51.581 [main] INFO  testCases.TC005_AddToCartTest - ***starting TC005_AddToCartTest***
 17:32:53.571 [main] INFO  testCases.TC005_AddToCartTest - ***Finished TC005_AddToCartTest***
+13:03:15.095 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest**** 
+13:03:16.535 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest**** 
